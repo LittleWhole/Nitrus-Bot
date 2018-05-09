@@ -1,0 +1,14 @@
+{
+  "name": "Nitrus",
+  "version": "0.0.1-alpha",
+  "private": true,
+  "license": "MIT",
+  "repository": "https://github.com/LittleWhole/Nitrus-Bot",
+  "author": "LittleWhole",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
